@@ -1,0 +1,114 @@
+<svg width="87" height="75" viewBox="0 0 87 75" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask0_1994_1403" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="54" y="0" width="5" height="5">
+<rect x="54.4277" width="4.50346" height="4.29876" fill="url(#pattern0)"/>
+</mask>
+<g mask="url(#mask0_1994_1403)">
+<rect x="54.4277" width="4.50346" height="4.29876" fill="url(#paint0_linear_1994_1403)"/>
+</g>
+<mask id="mask1_1994_1403" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="4" y="23" width="6" height="6">
+<rect x="4.99219" y="23.9507" width="4.50346" height="4.29876" fill="url(#pattern1)"/>
+</mask>
+<g mask="url(#mask1_1994_1403)">
+<rect x="4.99219" y="23.9507" width="4.50346" height="4.29876" fill="url(#paint1_linear_1994_1403)"/>
+</g>
+<mask id="mask2_1994_1403" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="72" y="59" width="6" height="5">
+<rect x="72.543" y="59.2617" width="4.50346" height="4.29876" fill="url(#pattern2)"/>
+</mask>
+<g mask="url(#mask2_1994_1403)">
+<rect x="72.543" y="59.2617" width="4.50346" height="4.29876" fill="url(#paint2_linear_1994_1403)"/>
+</g>
+<mask id="mask3_1994_1403" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="32" y="1" width="4" height="4">
+<rect x="32.9336" y="1.53516" width="2.76349" height="2.76349" fill="url(#pattern3)"/>
+</mask>
+<g mask="url(#mask3_1994_1403)">
+<rect x="32.9336" y="1.53516" width="2.76349" height="2.76349" fill="url(#paint3_linear_1994_1403)"/>
+</g>
+<mask id="mask4_1994_1403" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="4" y="49" width="4" height="3">
+<rect x="4.37695" y="49.1289" width="2.76349" height="2.76349" fill="url(#pattern4)"/>
+</mask>
+<g mask="url(#mask4_1994_1403)">
+<rect x="4.37695" y="49.1289" width="2.76349" height="2.76349" fill="url(#paint4_linear_1994_1403)"/>
+</g>
+<mask id="mask5_1994_1403" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="84" y="44" width="3" height="3">
+<rect x="84.2109" y="44.2158" width="2.76349" height="2.76349" fill="url(#pattern5)"/>
+</mask>
+<g mask="url(#mask5_1994_1403)">
+<rect x="84.2109" y="44.2158" width="2.76349" height="2.76349" fill="url(#paint5_linear_1994_1403)"/>
+</g>
+<g clip-path="url(#clip0_1994_1403)">
+<path d="M56.1111 29.1331C55.4487 25.6692 53.5993 22.5446 50.8814 20.2972C48.1635 18.0498 44.7472 16.8203 41.2205 16.8203C37.6938 16.8203 34.2774 18.0498 31.5596 20.2972C28.8417 22.5446 26.9923 25.6692 26.3299 29.1331C23.5318 29.6311 21.0219 31.1595 19.2951 33.4168C17.5684 35.6742 16.7501 38.4966 17.0017 41.3275C17.2532 44.1584 18.5564 46.7923 20.6542 48.7097C22.7519 50.6272 25.492 51.689 28.3341 51.6858H29.0921V48.6537H28.3341C26.17 48.6593 24.0886 47.8228 22.5304 46.3211C20.9722 44.8193 20.0594 42.7703 19.9851 40.6075C19.9109 38.4447 20.681 36.3378 22.1325 34.7327C23.5841 33.1277 25.6032 32.1503 27.7625 32.0075L29.0299 31.9211L29.1664 30.6582C29.4899 27.6872 30.8992 24.9403 33.1239 22.9447C35.3486 20.9492 38.2319 19.8455 41.2205 19.8455C44.2091 19.8455 47.0924 20.9492 49.317 22.9447C51.5417 24.9403 52.9511 27.6872 53.2746 30.6582L53.411 31.9211L54.6784 32.009C56.8335 32.1575 58.8466 33.1371 60.2933 34.7412C61.7399 36.3453 62.5071 38.4486 62.433 40.6075C62.3589 42.7663 61.4492 44.812 59.8959 46.3131C58.3426 47.8142 56.267 48.6534 54.1069 48.6537H53.3489V51.6858H54.1069C56.9489 51.689 59.689 50.6272 61.7868 48.7097C63.8846 46.7923 65.1877 44.1584 65.4393 41.3275C65.6909 38.4966 64.8726 35.6742 63.1458 33.4168C61.4191 31.1595 58.9092 29.6311 56.1111 29.1331Z" fill="url(#paint6_linear_1994_1403)"/>
+<path d="M51.8321 47.1377V44.1056H48.6469C48.4514 43.1566 48.0745 42.2542 47.5371 41.4479L49.796 39.189L47.6523 37.0453L45.3934 39.3042C44.5872 38.7668 43.6848 38.39 42.7358 38.1945V35.0093H39.7037V38.1945C38.7547 38.39 37.8523 38.7668 37.0461 39.3042L34.7872 37.0453L32.6435 39.189L34.9024 41.4479C34.365 42.2542 33.9882 43.1566 33.7926 44.1056H30.6074V47.1377H33.7926C33.9882 48.0867 34.365 48.989 34.9024 49.7953L32.6435 52.0542L34.7872 54.1979L37.0461 51.939C37.8523 52.4764 38.7547 52.8532 39.7037 53.0487V56.2339H42.7358V53.0487C43.6848 52.8532 44.5872 52.4764 45.3934 51.939L47.6523 54.1979L49.796 52.0542L47.5371 49.7953C48.0745 48.989 48.4514 48.0867 48.6469 47.1377H51.8321ZM41.2198 50.1698C40.3202 50.1698 39.4409 49.903 38.6929 49.4033C37.945 48.9035 37.3621 48.1932 37.0178 47.3621C36.6736 46.531 36.5835 45.6166 36.759 44.7343C36.9345 43.8521 37.3677 43.0417 38.0037 42.4056C38.6398 41.7695 39.4502 41.3364 40.3325 41.1609C41.2147 40.9854 42.1292 41.0754 42.9603 41.4197C43.7913 41.7639 44.5016 42.3469 45.0014 43.0948C45.5012 43.8427 45.7679 44.7221 45.7679 45.6216C45.7667 46.8275 45.2871 47.9836 44.4344 48.8363C43.5818 49.689 42.4256 50.1686 41.2198 50.1698Z" fill="url(#paint7_linear_1994_1403)"/>
+</g>
+<ellipse cx="40.9181" cy="38.0743" rx="27.6349" ry="27.6349" stroke="url(#paint8_linear_1994_1403)" stroke-width="0.864198" stroke-linecap="round" stroke-dasharray="2.59 2.59"/>
+<path d="M1 69.394H75.6141" stroke="url(#paint9_linear_1994_1403)" stroke-width="1.7284" stroke-linecap="round"/>
+<path d="M13.2832 74H28.6359" stroke="url(#paint10_linear_1994_1403)" stroke-width="1.7284" stroke-linecap="round"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1994_1403" transform="matrix(0.0179924 0 0 0.0188492 0.0909091 0.047619)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1994_1403" transform="matrix(0.0179924 0 0 0.0188492 0.0909091 0.047619)"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1994_1403" transform="matrix(0.0179924 0 0 0.0188492 0.0909091 0.047619)"/>
+</pattern>
+<pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_1994_1403" transform="scale(0.0238095)"/>
+</pattern>
+<pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_1994_1403" transform="scale(0.0238095)"/>
+</pattern>
+<pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_1994_1403" transform="scale(0.0238095)"/>
+</pattern>
+<linearGradient id="paint0_linear_1994_1403" x1="54.0164" y1="1.61203" x2="59.1632" y2="1.61203" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A0D64C"/>
+<stop offset="1" stop-color="#D2FF8B"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1994_1403" x1="4.58086" y1="25.5627" x2="9.72767" y2="25.5627" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A0D64C"/>
+<stop offset="1" stop-color="#D2FF8B"/>
+</linearGradient>
+<linearGradient id="paint2_linear_1994_1403" x1="72.1316" y1="60.8738" x2="77.2785" y2="60.8738" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A0D64C"/>
+<stop offset="1" stop-color="#D2FF8B"/>
+</linearGradient>
+<linearGradient id="paint3_linear_1994_1403" x1="32.6812" y1="2.57146" x2="35.8395" y2="2.57146" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A0D64C"/>
+<stop offset="1" stop-color="#D2FF8B"/>
+</linearGradient>
+<linearGradient id="paint4_linear_1994_1403" x1="4.12455" y1="50.1652" x2="7.28282" y2="50.1652" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A0D64C"/>
+<stop offset="1" stop-color="#D2FF8B"/>
+</linearGradient>
+<linearGradient id="paint5_linear_1994_1403" x1="83.9585" y1="45.2521" x2="87.1168" y2="45.2521" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A0D64C"/>
+<stop offset="1" stop-color="#D2FF8B"/>
+</linearGradient>
+<linearGradient id="paint6_linear_1994_1403" x1="12.5248" y1="29.8949" x2="67.9842" y2="29.8949" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A0D64C"/>
+<stop offset="1" stop-color="#D2FF8B"/>
+</linearGradient>
+<linearGradient id="paint7_linear_1994_1403" x1="28.6689" y1="42.9685" x2="52.9256" y2="42.9685" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A0D64C"/>
+<stop offset="1" stop-color="#D2FF8B"/>
+</linearGradient>
+<linearGradient id="paint8_linear_1994_1403" x1="8.23515" y1="31.1656" x2="71.4005" y2="31.1656" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A0D64C"/>
+<stop offset="1" stop-color="#D2FF8B"/>
+</linearGradient>
+<linearGradient id="paint9_linear_1994_1403" x1="-5.81487" y1="69.769" x2="79.4584" y2="69.769" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A0D64C"/>
+<stop offset="1" stop-color="#D2FF8B"/>
+</linearGradient>
+<linearGradient id="paint10_linear_1994_1403" x1="11.881" y1="74.375" x2="29.4269" y2="74.375" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A0D64C"/>
+<stop offset="1" stop-color="#D2FF8B"/>
+</linearGradient>
+<clipPath id="clip0_1994_1403">
+<rect width="48.5135" height="48.5135" fill="white" transform="translate(16.9629 13.7847)"/>
+</clipPath>
+<image id="image0_1994_1403" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADYklEQVR4Ac3XA4wlaRSG4bNoBMu+q2EwjlextWi717Zt27Zt27bCVuxkWV3jqdxv32g8p6rmVtU/b/KE859v1LIi0g0/7Ioh3I73MYa/sVzA3xjD+7gdQ9jVQqbrv2/DmfgZdSinOn7GmWizqtJ13+2BW7EYKsgS3I1pVla69vttcS5iqCQxzkVTwb/5b+fiN6giv2ORFZGu+bYLEVSxGN3WSLr6m+OQQIEkOM42J1359YnQFuJEy5Ou+KoTCZTDOG5AOxagDa0C2rAA7bgB41AOCTotS7r8y4WIoYy+x6DljDcD+A7KKMZC/+hlXzThDyiDBCdbg4kbWAll8AeaNn3s0s/OhTKIsI8VFLf2RgRlcN7Gj1z86TTEUIr3MNsKTtzEe1CKGNM2PHDRJ/dAKSLMtpIStxFBKe5d9+GFH9ewFHKsxL5WcmIDKyHHUtTWPDr/wzOgFCdbRbF1EpTijDUPzvvgF8jxnVWc2IQcPxuZznl/V9QhR79VnNiEHHVMM5397jDkmLBAiW3IcbDpzHduhxw3WKDENuS43XTGW+9DjnYLlNiGHO+ZTn1zEnLMtUCJbcgxaTrl9SnIsb0FSmxDjinTSa8pxVYWKLENeUwnvKIUwf4AbLdAjhWm41+eghzB/guxXYMcf5mOfXEScoT7IGYbckyajnnhfcgR7tMo25DjPdNRz98OOcJ9IWMbctxuOvLZYcgR7FsJtscgxyGmw5/ZDXXIUf03c2xCjjqmGZkOe+oXyFH9t9NsQo5f1vziQ548A0pxslUUWydBKc5a8+DgJ2pYCjkSlP8jJRtYBTmWorbuw5HH7oVSRCjvh3puI4JS3Lvh46FHpyGGUryHwv8Q4ibeg1LEmLbxIwOPnAtlEGFvKyhu7YUIyuC8TR/qf7AJv0EZJDjOGowbx2IllMFvaPIP9j0wFxGU0bcYtJzxZgDfQBlNYV624733dyKBchjHDWjHfOyMZgE7Yz7acQPGoRwSdFqe1H3fidAW4kTbnNR173FIoEASNPZxps57uhFBFYvRY0Wkjrvn4jeoIn9gkRWZ2u9qxkVYCpVkKS5Gs5WVDrxzOm7DYqggS3APZlhV6YA7ajgTv6AO5VTHLzgTNQuZ9r99NwzjdnyAcfyDlQL+wTg+wO0Yxm5WQP8DycQhgb0PVkQAAAAASUVORK5CYII="/>
+<image id="image1_1994_1403" width="42" height="42" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAbFBMVEUAAAA7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmM7NmOWURtkAAAAI3RSTlMAC/z49cg45yERq4TOZUA0B+uliOO5sI18aFQa8GFeWt8xaoJ27k8AAAFLSURBVDjLjZTploMgDEbZ1LprXeraZfL+7zhnxpYARuz9Ge6BGD9gHsK+ltnIviAX8EdXnZqlgI3mVA3gjeIn5gM0pd/kLaqhUX4VsaumaAq9WKULgEgulnmRqCa62m0FmZrdJ2hKvUmua9GqzQKQxpgJEnw+IMNahIcpMLnO20nInWkisFADZ3FtHMSQHhza6QZIaMZHgIerG6BD1OxEKDhUh300Itp8VkQ4UkWpE6O49IR6ixlJke3demQ0Y72Xs4J24xvswXhaTORwMZ5I9QSS6LFTBzgiKG1zVnCIXC31Ch6ElTFz+FPrur2hBsboY8YHp50IzTsg43/rdkMKE2OkK/u0FAB1dRpA8GeuuEFOPydmPN8LHTUo6bxJiQBYmkoHxdg03aWoKDk505YzLy/zOfHDFc7ED85KlKdq1W1mzr7gJ5NLEnqEX9tCahIOHicbAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>
